@@ -1,0 +1,35 @@
+2023-04-02 15:13:06.736143 - Initialized conversion of CBT577
+2023-04-02 15:13:06.921679 - Received CBT.V504.FILE577.PDS from FILE577.XMI 
+2023-04-02 15:13:06.924431 - Found $$$#DATE.txt (text/plain) in CBT.V504.FILE577.PDS, moved to PDS/$$$#DATE
+2023-04-02 15:13:06.925684 - Found $$NOTE.txt (text/plain) in CBT.V504.FILE577.PDS, moved to PDS/$$NOTE
+2023-04-02 15:13:06.926909 - Found $$NOTE1.txt (text/plain) in CBT.V504.FILE577.PDS, moved to PDS/$$NOTE1
+2023-04-02 15:13:06.928002 - Found $$NOTE2.txt (text/plain) in CBT.V504.FILE577.PDS, moved to PDS/$$NOTE2
+2023-04-02 15:13:06.929071 - Found $$NOTE3.txt (text/plain) in CBT.V504.FILE577.PDS, moved to PDS/$$NOTE3
+2023-04-02 15:13:06.937693 - Found $LOADLIB.xmi (application/xmit) in CBT.V504.FILE577.PDS
+2023-04-02 15:13:06.947749   - Received RECFM=U data, stored XMIT file as CBT577/$LOADLIB.xmi
+2023-04-02 15:13:06.948831 - Found @FILE577.txt (text/plain) in CBT.V504.FILE577.PDS, moved to PDS/@FILE577
+2023-04-02 15:13:06.949820 - Found ASMLKSG.jcl (text/plain) in CBT.V504.FILE577.PDS, moved to PDS/ASMLKSG
+2023-04-02 15:13:06.950808 - Found CASIO.rexx (text/plain) in CBT.V504.FILE577.PDS, moved to PDS/CASIO
+2023-04-02 15:13:06.951960 - Found CASI01.txt (text/plain) in CBT.V504.FILE577.PDS, moved to PDS/CASI01
+2023-04-02 15:13:06.952937 - Found EASTER.rexx (text/plain) in CBT.V504.FILE577.PDS, moved to PDS/EASTER
+2023-04-02 15:13:06.953916 - Found EMPTY.txt (text/plain) in CBT.V504.FILE577.PDS, moved to PDS/EMPTY
+2023-04-02 15:13:06.954887 - Found EUCLIDES.rexx (text/plain) in CBT.V504.FILE577.PDS, moved to PDS/EUCLIDES
+2023-04-02 15:13:06.955870 - Found EXPCLEAN.txt (text/plain) in CBT.V504.FILE577.PDS, moved to PDS/EXPCLEAN
+2023-04-02 15:13:06.957123 - Found FFF.rexx (text/plain) in CBT.V504.FILE577.PDS, moved to PDS/FFF
+2023-04-02 15:13:06.958263 - Found FGF.rexx (text/plain) in CBT.V504.FILE577.PDS, moved to PDS/FGF
+2023-04-02 15:13:06.959305 - Found INF10.txt (text/plain) in CBT.V504.FILE577.PDS, moved to PDS/INF10
+2023-04-02 15:13:06.960248 - Found IRXNREG.txt (text/plain) in CBT.V504.FILE577.PDS, moved to PDS/IRXNREG
+2023-04-02 15:13:06.961192 - Found IRXNREG$.jcl (text/plain) in CBT.V504.FILE577.PDS, moved to PDS/IRXNREG$
+2023-04-02 15:13:06.962180 - Found JEMPTY.jcl (text/plain) in CBT.V504.FILE577.PDS, moved to PDS/JEMPTY
+2023-04-02 15:13:06.963147 - Found JEXPCL.jcl (text/plain) in CBT.V504.FILE577.PDS, moved to PDS/JEXPCL
+2023-04-02 15:13:06.964048 - Found JWAIT.jcl (text/plain) in CBT.V504.FILE577.PDS, moved to PDS/JWAIT
+2023-04-02 15:13:06.964959 - Found LISTA.rexx (text/plain) in CBT.V504.FILE577.PDS, moved to PDS/LISTA
+2023-04-02 15:13:06.965832 - Found MN.rexx (text/plain) in CBT.V504.FILE577.PDS, moved to PDS/MN
+2023-04-02 15:13:06.966753 - Found MNF.rexx (text/plain) in CBT.V504.FILE577.PDS, moved to PDS/MNF
+2023-04-02 15:13:06.967957 - Found PCASIO.txt (text/plain) in CBT.V504.FILE577.PDS, moved to PDS/PCASIO
+2023-04-02 15:13:06.969006 - Found PCASIOH.txt (text/plain) in CBT.V504.FILE577.PDS, moved to PDS/PCASIOH
+2023-04-02 15:13:06.969964 - Found PSPACE1.txt (text/plain) in CBT.V504.FILE577.PDS, moved to PDS/PSPACE1
+2023-04-02 15:13:06.970946 - Found PSPACE2.txt (text/plain) in CBT.V504.FILE577.PDS, moved to PDS/PSPACE2
+2023-04-02 15:13:06.972188 - Found RWAIT.rexx (text/plain) in CBT.V504.FILE577.PDS, moved to PDS/RWAIT
+2023-04-02 15:13:06.973204 - Found SPACE.rexx (text/plain) in CBT.V504.FILE577.PDS, moved to PDS/SPACE
+2023-04-02 15:13:06.974174 - Found WAITING.txt (text/plain) in CBT.V504.FILE577.PDS, moved to PDS/WAITING
